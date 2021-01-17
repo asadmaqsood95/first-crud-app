@@ -23,7 +23,7 @@ const Home = ()=> {
 
     return(
         <div className="container">
-        <h1>Users List</h1>
+        <h1> All Users List</h1>
 
         <Table striped bordered hover>
   <thead>
